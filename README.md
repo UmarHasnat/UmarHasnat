@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Kaggle, LinkedIn.
 - 📫 You can connect with me on Whatsapp, Telegram, LinkedIn.
-- <a href="https://www.kaggle.com/programmerx3d">
+- [![Kaggle](<a href="https://www.kaggle.com/programmerx3d">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" />
-</a>
-
-- [![Kaggle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg)](https://www.kaggle.com/programmerx3d)
+</a>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/umar-hasnat-3b8024305)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/UmarHasnat123)
 - 😄 Pronouns: Kalyal.
